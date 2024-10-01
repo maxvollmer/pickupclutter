@@ -1,0 +1,10 @@
+﻿{
+  "Name": "PickUpClutter",
+  "Author": "Max Vollmer",
+  "Version": "0.0.1",
+  "Description": "Allows to pickup and relocate clutter",
+  "UniqueID": "de.maxmakesmods.pickupclutter",
+  "EntryDll": "PickUpClutter.dll",
+  "MinimumApiVersion": "4.0.8",
+  "UpdateKeys": []
+}
